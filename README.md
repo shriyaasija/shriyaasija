@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+hi i'm shriya asija, a student from Bangalore, India. 
+
+i'm primarily interested in full stack development and artificial intelligence and currently studing computer science & engineering.
+
+outside of this, i'm interested in following the developments of science and reading books and watching movies about science and science fiction! 
+
+#### Let's connect!
+[<img alt="LetterBoxd" src="https://img.shields.io/badge/LetterBoxd-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://letterboxd.com/shriyaas/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](www.linkedin.com/in/shriya-asija-a19a60273)
+
 <!--
 **shriyaasija/shriyaasija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
