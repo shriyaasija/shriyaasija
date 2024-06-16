@@ -1,8 +1,8 @@
-## Hi there 👋
+## hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-hi i'm shriya asija, a student from Bangalore, India. 
+hi i'm [**shriya asija**], a student from Bangalore, India. 
 
-i'm primarily interested in full stack development and artificial intelligence and currently studing computer science & engineering.
+i'm primarily interested in [**full stack development**] and [**artificial intelligence**] and currently studying computer science & engineering.
 
 outside of this, i'm interested in following the developments of science and reading books and watching movies about science and science fiction! 
 
