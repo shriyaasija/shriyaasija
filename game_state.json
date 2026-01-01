@@ -1,34 +1,18 @@
 {
   "board": [
-    "X",
     "\u00b7",
     "\u00b7",
     "\u00b7",
-    "O",
     "\u00b7",
-    "X",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
     "\u00b7",
     "\u00b7"
   ],
-  "current_player": "O",
+  "current_player": "X",
   "game_over": false,
   "winner": null,
-  "move_count": 3,
-  "history": [
-    {
-      "player": "X",
-      "position": 0,
-      "move_number": 1
-    },
-    {
-      "player": "O",
-      "position": 4,
-      "move_number": 2
-    },
-    {
-      "player": "X",
-      "position": 6,
-      "move_number": 3
-    }
-  ]
+  "move_count": 0,
+  "history": []
 }

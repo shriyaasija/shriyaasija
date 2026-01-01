@@ -11,13 +11,13 @@ I'm currently a 3rd year student at PES University, Bangalore. Feel free to play
 
 Everyone is welcome to participate! To make a move, click on the **position** you wish to place your mark in.
 
-It is the **O player's turn** to play.
+It is the **X player's turn** to play.
 
 | |1|2|3|
 |:---:|:---:|:---:|:---:|
-|**A**|X| | |
-|**B**| |O| |
-|**C**|X| | |
+|**A**| | | |
+|**B**| | | |
+|**C**| | | |
 
 
 Tired of waiting? [Request a move](../../issues/new?title=move:&body=Make%20a%20move) from the Tic Tac Toe Bot 🤖
@@ -35,9 +35,11 @@ Tired of waiting? [Request a move](../../issues/new?title=move:&body=Make%20a%20
 
 Click a position to play:
 
-[**A2**](../../issues/new?title=move:%20A2&body=Making%20a%20move%20at%20A2) | [**A3**](../../issues/new?title=move:%20A3&body=Making%20a%20move%20at%20A3) | [**B1**](../../issues/new?title=move:%20B1&body=Making%20a%20move%20at%20B1)
+[**A1**](../../issues/new?title=move:%20A1&body=Making%20a%20move%20at%20A1) | [**A2**](../../issues/new?title=move:%20A2&body=Making%20a%20move%20at%20A2) | [**A3**](../../issues/new?title=move:%20A3&body=Making%20a%20move%20at%20A3)
 
-[**B3**](../../issues/new?title=move:%20B3&body=Making%20a%20move%20at%20B3) | [**C2**](../../issues/new?title=move:%20C2&body=Making%20a%20move%20at%20C2) | [**C3**](../../issues/new?title=move:%20C3&body=Making%20a%20move%20at%20C3)
+[**B1**](../../issues/new?title=move:%20B1&body=Making%20a%20move%20at%20B1) | [**B2**](../../issues/new?title=move:%20B2&body=Making%20a%20move%20at%20B2) | [**B3**](../../issues/new?title=move:%20B3&body=Making%20a%20move%20at%20B3)
+
+[**C1**](../../issues/new?title=move:%20C1&body=Making%20a%20move%20at%20C1) | [**C2**](../../issues/new?title=move:%20C2&body=Making%20a%20move%20at%20C2) | [**C3**](../../issues/new?title=move:%20C3&body=Making%20a%20move%20at%20C3)
 
 ---
 
@@ -45,11 +47,7 @@ Click a position to play:
 
 <!-- This will show the last few moves made -->
 
-| Player | Position | Move # |
-|:---:|:---:|:---:|
-| X | C1 | 3 |
-| O | B2 | 2 |
-| X | A1 | 1 |
+_No moves yet! Be the first to play._
 
 
 ---
