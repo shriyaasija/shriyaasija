@@ -5,18 +5,18 @@ I'm currently a 3rd year student at PES University, Bangalore. Feel free to play
 
 ## Join my community Tic Tac Toe game!
 
-![Moves played](https://img.shields.io/badge/Moves_played-1-blue)
+![Moves played](https://img.shields.io/badge/Moves_played-2-blue)
 ![Completed games](https://img.shields.io/badge/Completed_games-0-brightgreen)
 ![Total players](https://img.shields.io/badge/Total_players-0-orange)
 
 Everyone is welcome to participate! To make a move, click on the **position** you wish to place your mark in.
 
-It is the **O player's turn** to play.
+It is the **X player's turn** to play.
 
 | |1|2|3|
 |:---:|:---:|:---:|:---:|
 |**A**|X| | |
-|**B**| | | |
+|**B**| |O| |
 |**C**| | | |
 
 
@@ -37,9 +37,9 @@ Click a position to play:
 
 [**A2**](../../issues/new?title=move:%20A2&body=Making%20a%20move%20at%20A2) | [**A3**](../../issues/new?title=move:%20A3&body=Making%20a%20move%20at%20A3) | [**B1**](../../issues/new?title=move:%20B1&body=Making%20a%20move%20at%20B1)
 
-[**B2**](../../issues/new?title=move:%20B2&body=Making%20a%20move%20at%20B2) | [**B3**](../../issues/new?title=move:%20B3&body=Making%20a%20move%20at%20B3) | [**C1**](../../issues/new?title=move:%20C1&body=Making%20a%20move%20at%20C1)
+[**B3**](../../issues/new?title=move:%20B3&body=Making%20a%20move%20at%20B3) | [**C1**](../../issues/new?title=move:%20C1&body=Making%20a%20move%20at%20C1) | [**C2**](../../issues/new?title=move:%20C2&body=Making%20a%20move%20at%20C2)
 
-[**C2**](../../issues/new?title=move:%20C2&body=Making%20a%20move%20at%20C2) | [**C3**](../../issues/new?title=move:%20C3&body=Making%20a%20move%20at%20C3)
+[**C3**](../../issues/new?title=move:%20C3&body=Making%20a%20move%20at%20C3)
 
 ---
 
@@ -49,6 +49,7 @@ Click a position to play:
 
 | Player | Position | Move # |
 |:---:|:---:|:---:|
+| O | B2 | 2 |
 | X | A1 | 1 |
 
 
