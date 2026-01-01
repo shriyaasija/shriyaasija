@@ -1,7 +1,24 @@
 {
-  "board": ["·", "·", "·", "·", "·", "·", "·", "·", "·"],
-  "current_player": "X",
+  "board": [
+    "X",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7",
+    "\u00b7"
+  ],
+  "current_player": "O",
   "game_over": false,
   "winner": null,
-  "move_count": 0
+  "move_count": 1,
+  "history": [
+    {
+      "player": "X",
+      "position": 0,
+      "move_number": 1
+    }
+  ]
 }
