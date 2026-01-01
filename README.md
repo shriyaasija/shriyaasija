@@ -1,6 +1,6 @@
-# Hey, I'm Shriya Asija. I'm currently a 3rd year student at PES University, Bangalore.
+# Hey, I'm Shriya Asija. 
 
-Feel free to play a game of Tic Tac Toe with me!
+I'm currently a 3rd year student at PES University, Bangalore. Feel free to play a game of Tic Tac Toe with me!
 
 ---
 
