@@ -127,17 +127,6 @@ Click a position to play:
 
 ---
 
-### How It Works
-
-Interested in how everything works? This project uses:
-
-1. **GitHub Issues** - To capture player moves
-2. **GitHub Actions** - Automated workflow that processes moves
-3. **Python** - Game logic and state management
-4. **JSON** - Storing game state between moves
-
-Want to build your own? Check out the code in this repository!
-
 ### Making a Move Manually
 
 If the clickable links don't work, you can create an issue manually:
