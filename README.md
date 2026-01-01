@@ -5,7 +5,7 @@ I'm currently a 3rd year student at PES University, Bangalore. Feel free to play
 
 ## Join my community Tic Tac Toe game!
 
-![Moves played](https://img.shields.io/badge/Moves_played-0-blue)
+![Moves played](https://img.shields.io/badge/Moves_played-3-blue)
 ![Completed games](https://img.shields.io/badge/Completed_games-0-brightgreen)
 ![Total players](https://img.shields.io/badge/Total_players-0-orange)
 
@@ -15,9 +15,9 @@ It is the **X player's turn** to play.
 
 | |1|2|3|
 |:---:|:---:|:---:|:---:|
-|**A**|Â·|Â·|Â·|
-|**B**|Â·|Â·|Â·|
-|**C**|Â·|Â·|Â·|
+|**A**| | | |
+|**B**| | | |
+|**C**| | | |
 
 
 Tired of waiting? [Request a move](../../issues/new?title=move:&body=Make%20a%20move) from the Tic Tac Toe Bot 🤖
@@ -35,7 +35,11 @@ Tired of waiting? [Request a move](../../issues/new?title=move:&body=Make%20a%20
 
 Click a position to play:
 
-_No moves available - game is over!_
+[**A1**](../../issues/new?title=move:%20A1&body=Making%20a%20move%20at%20A1) | [**A2**](../../issues/new?title=move:%20A2&body=Making%20a%20move%20at%20A2) | [**A3**](../../issues/new?title=move:%20A3&body=Making%20a%20move%20at%20A3)
+
+[**B1**](../../issues/new?title=move:%20B1&body=Making%20a%20move%20at%20B1) | [**B2**](../../issues/new?title=move:%20B2&body=Making%20a%20move%20at%20B2) | [**B3**](../../issues/new?title=move:%20B3&body=Making%20a%20move%20at%20B3)
+
+[**C1**](../../issues/new?title=move:%20C1&body=Making%20a%20move%20at%20C1) | [**C2**](../../issues/new?title=move:%20C2&body=Making%20a%20move%20at%20C2) | [**C3**](../../issues/new?title=move:%20C3&body=Making%20a%20move%20at%20C3)
 
 ---
 
