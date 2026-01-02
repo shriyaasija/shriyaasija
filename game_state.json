@@ -48,8 +48,8 @@
     [
       "·",
       "·",
-      "X",
-      "Red",
+      "·",
+      "·",
       "·",
       "·",
       "·"
@@ -58,13 +58,6 @@
   "current_player": "Red",
   "game_over": false,
   "winner": null,
-  "move_count": 1,
-  "history": [
-    {
-      "team": "X",
-      "column": 3,
-      "move_number": 1,
-      "player": "shriyaasija"
-    }
-  ]
+  "move_count": 0,
+  "history": []
 }

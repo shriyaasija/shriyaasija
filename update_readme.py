@@ -126,14 +126,8 @@ Everyone is welcome to participate! To make a move, click on the **column number
         readme += f"It is the **{current_player.lower()} team's turn** to play.\n\n"
 
     readme += board_markdown
-    readme += "\n\n"
-    
-    if not game_over:
-        readme += """Tired of waiting? [Request a move](../../issues/new?title=connect4bot&body=@connect4bot%20please%20make%20a%20move) from Connect4Bot 🤖
-
-"""
-    
-    readme += """Interested in how everything works? [Click here](./HOW_IT_WORKS.md) to read up on what's happening behind the scenes.
+    readme += "\n\n"    
+    readme += """
 
 ---
 

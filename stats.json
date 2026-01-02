@@ -1,8 +1,5 @@
 {
-  "total_moves": 2,
+  "total_moves": 0,
   "completed_games": 0,
-  "total_players": [
-    "testuser",
-    "shriyaasija"
-  ]
+  "total_players": []
 }

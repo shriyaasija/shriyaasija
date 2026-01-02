@@ -6,9 +6,9 @@ I'm currently a third-year student studying Computer Science at PES University.
 
 ## 🎮 Join my community Connect Four game!
 
-![Moves played](https://img.shields.io/badge/Moves_played-2-blue)
+![Moves played](https://img.shields.io/badge/Moves_played-0-blue)
 ![Completed games](https://img.shields.io/badge/Completed_games-0-brightgreen)
-![Total players](https://img.shields.io/badge/Total_players-2-orange)
+![Total players](https://img.shields.io/badge/Total_players-0-orange)
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
@@ -21,27 +21,21 @@ It is the **red team's turn** to play.
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |
-| | | |🔴| | | |
-
-Tired of waiting? [Request a move](../../issues/new?title=connect4bot&body=@connect4bot%20please%20make%20a%20move) from Connect4Bot 🤖
-
-Interested in how everything works? [Click here](./HOW_IT_WORKS.md) to read up on what's happening behind the scenes.
+| | | | | | | |
 
 ---
 
 ## ⏰ Most recent moves
 
-| Team | Move | Made by |
-|:---:|:---:|:---:|
-| X | 3 | @shriyaasija |
+_No moves yet! Be the first to play._
 
 ---
 
 ## 📊 Game Statistics
 
-- **Total moves played**: 2
+- **Total moves played**: 0
 - **Completed games**: 0
-- **Unique players**: 2
+- **Unique players**: 0
 
 ---
 
