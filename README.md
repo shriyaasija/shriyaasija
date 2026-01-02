@@ -14,14 +14,79 @@ Everyone is welcome to participate! To make a move, click on the **column number
 
 It is the **red team's turn** to play.
 
-|[1](../../issues/new?title=1&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[2](../../issues/new?title=2&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[3](../../issues/new?title=3&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[4](../../issues/new?title=4&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[5](../../issues/new?title=5&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[6](../../issues/new?title=6&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[7](../../issues/new?title=7&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
-| | | | | | | |
+
+<table>
+<thead>
+<tr>
+<th><a href="../../issues/new?title=1&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">1</a></th>
+<th><a href="../../issues/new?title=2&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">2</a></th>
+<th><a href="../../issues/new?title=3&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">3</a></th>
+<th><a href="../../issues/new?title=4&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">4</a></th>
+<th><a href="../../issues/new?title=5&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">5</a></th>
+<th><a href="../../issues/new?title=6&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">6</a></th>
+<th><a href="../../issues/new?title=7&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">7</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+<tr>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+<td>⚪</td>
+</tr>
+</tbody>
+</table>
+
+
+
 
 ---
 

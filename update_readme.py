@@ -31,27 +31,34 @@ def generate_board_markdown(board):
     """Generate the Connect Four board in Markdown table format"""
     lines = []
     
-    # Header row with column numbers
-    header = "|"
+    # Header row with column numbers as clickable links
+    lines.append("")
+    lines.append("<table>")
+    lines.append("<thead>")
+    lines.append("<tr>")
     for col in range(1, 8):
-        header += f"[{col}](../../issues/new?title={col}&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|"
-    lines.append(header)
-    
-    # Separator
-    lines.append("|" + ":---:|" * 7)
+        lines.append(f'<th><a href="../../issues/new?title={col}&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!">{col}</a></th>')
+    lines.append("</tr>")
+    lines.append("</thead>")
+    lines.append("<tbody>")
     
     # Board rows (6 rows)
     for row in board:
-        row_str = "|"
+        lines.append("<tr>")
         for cell in row:
             if cell == 'Red':
-                row_str += "🔴|"
+                lines.append("<td>🔴</td>")
             elif cell == 'Blue':
-                row_str += "🔵|"
+                lines.append("<td>🔵</td>")
             else:
-                row_str += " |"
-        lines.append(row_str)
+                # Empty cell with a subtle placeholder
+                lines.append("<td>⚪</td>")
+        lines.append("</tr>")
     
+    lines.append("</tbody>")
+    lines.append("</table>")
+    lines.append("")
+
     return "\n".join(lines)
 
 def generate_move_history(history):
