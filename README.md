@@ -6,13 +6,13 @@ I'm currently a third-year student studying Computer Science at PES University.
 
 ## 🎮 Join my community Connect Four game!
 
-![Moves played](https://img.shields.io/badge/Moves_played-1-blue)
+![Moves played](https://img.shields.io/badge/Moves_played-2-blue)
 ![Completed games](https://img.shields.io/badge/Completed_games-0-brightgreen)
-![Total players](https://img.shields.io/badge/Total_players-1-orange)
+![Total players](https://img.shields.io/badge/Total_players-2-orange)
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
-It is the **blue team's turn** to play.
+It is the **red team's turn** to play.
 
 |[1](../../issues/new?title=1&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[2](../../issues/new?title=2&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[3](../../issues/new?title=3&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[4](../../issues/new?title=4&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[5](../../issues/new?title=5&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[6](../../issues/new?title=6&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|[7](../../issues/new?title=7&body=Just%20push%20%27Submit%20new%20issue%27%20without%20editing%20the%20title.%20The%20game%20will%20make%20your%20move!)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -33,15 +33,15 @@ Interested in how everything works? [Click here](./HOW_IT_WORKS.md) to read up o
 
 | Team | Move | Made by |
 |:---:|:---:|:---:|
-| Red | 4 | @testuser |
+| X | 3 | @shriyaasija |
 
 ---
 
 ## 📊 Game Statistics
 
-- **Total moves played**: 1
+- **Total moves played**: 2
 - **Completed games**: 0
-- **Unique players**: 1
+- **Unique players**: 2
 
 ---
 
