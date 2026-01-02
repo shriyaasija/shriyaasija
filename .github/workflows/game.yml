@@ -1,54 +1,46 @@
-name: Play Tic Tac Toe
+name: Connect Four Game
 
-# This workflow runs whenever a new issue is opened
 on:
   issues:
     types: [opened]
 
-# Permissions needed to update the repository
 permissions:
   contents: write
   issues: write
 
 jobs:
-  process-move:
+  play-game:
     runs-on: ubuntu-latest
     
     steps:
-      # Step 1: Check out the repository code
       - name: Checkout repository
         uses: actions/checkout@v3
       
-      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
       
-      # Step 3: Process the move from the issue
       - name: Process game move
         id: game_move
         run: |
-          # Run the game script with the issue title
-          output=$(python game.py "${{ github.event.issue.title }}")
+          # Pass issue title and creator username to game script
+          output=$(python connect4.py "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}")
           echo "result=$output" >> $GITHUB_OUTPUT
           echo "$output"
       
-      # Step 4: Update the README with new game state
       - name: Update README
         run: |
           python update_readme.py
       
-      # Step 5: Commit and push changes
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update game state: ${{ github.event.issue.title }}"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Connect Four: ${{ github.event.issue.user.login }} - ${{ github.event.issue.title }}"
           git push
       
-      # Step 6: Comment on the issue with the result
       - name: Comment on issue
         uses: actions/github-script@v6
         with:
@@ -57,10 +49,9 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '${{ steps.game_move.outputs.result }}\n\nCheck the [README](https://github.com/${{ github.repository }}) to see the updated board!'
+              body: '${{ steps.game_move.outputs.result }}\n\nCheck your [profile](https://github.com/${{ github.repository.owner }}) to see the updated board!'
             })
       
-      # Step 7: Close the issue automatically
       - name: Close issue
         uses: actions/github-script@v6
         with:
