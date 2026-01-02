@@ -55,16 +55,9 @@
       "·"
     ]
   ],
-  "current_player": "Blue",
+  "current_player": "X",
   "game_over": false,
   "winner": null,
-  "move_count": 1,
-  "history": [
-    {
-      "team": "Red",
-      "column": 4,
-      "move_number": 1,
-      "player": "testuser"
-    }
-  ]
+  "move_count": 0,
+  "history": []
 }
