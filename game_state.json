@@ -49,21 +49,27 @@
       "·",
       "·",
       "Red",
-      "·",
+      "Blue",
       "·",
       "·",
       "·"
     ]
   ],
-  "current_player": "Blue",
+  "current_player": "Red",
   "game_over": false,
   "winner": null,
-  "move_count": 1,
+  "move_count": 2,
   "history": [
     {
       "team": "Red",
       "column": 3,
       "move_number": 1,
+      "player": "shriyaasija"
+    },
+    {
+      "team": "Blue",
+      "column": 4,
+      "move_number": 2,
       "player": "shriyaasija"
     }
   ]
