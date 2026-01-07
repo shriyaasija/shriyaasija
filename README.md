@@ -6,13 +6,13 @@ I'm currently a third-year student studying Computer Science at PES University.
 
 ## 🎮 Join my community Connect Four game!
 
-![Moves played](https://img.shields.io/badge/Moves_played-2-blue)
+![Moves played](https://img.shields.io/badge/Moves_played-3-blue)
 ![Completed games](https://img.shields.io/badge/Completed_games-0-brightgreen)
-![Total players](https://img.shields.io/badge/Total_players-1-orange)
+![Total players](https://img.shields.io/badge/Total_players-2-orange)
 
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
-It is the **red team's turn** to play.
+It is the **blue team's turn** to play.
 
 
 <table>
@@ -79,7 +79,7 @@ It is the **red team's turn** to play.
 <td>🔴</td>
 <td>🔵</td>
 <td>⚪</td>
-<td>⚪</td>
+<td>🔴</td>
 <td>⚪</td>
 </tr>
 </tbody>
@@ -94,6 +94,7 @@ It is the **red team's turn** to play.
 
 | Team | Move | Made by |
 |:---:|:---:|:---:|
+| Red | 6 | @sumeettummarmatti |
 | Blue | 4 | @shriyaasija |
 | Red | 3 | @shriyaasija |
 
@@ -101,9 +102,9 @@ It is the **red team's turn** to play.
 
 ## 📊 Game Statistics
 
-- **Total moves played**: 2
+- **Total moves played**: 3
 - **Completed games**: 0
-- **Unique players**: 1
+- **Unique players**: 2
 
 ---
 
