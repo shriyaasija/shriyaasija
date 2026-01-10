@@ -47,7 +47,7 @@
     ],
     [
       "·",
-      "·",
+      "Blue",
       "Red",
       "Blue",
       "·",
@@ -55,10 +55,10 @@
       "·"
     ]
   ],
-  "current_player": "Blue",
+  "current_player": "Red",
   "game_over": false,
   "winner": null,
-  "move_count": 3,
+  "move_count": 4,
   "history": [
     {
       "team": "Red",
@@ -77,6 +77,12 @@
       "column": 6,
       "move_number": 3,
       "player": "sumeettummarmatti"
+    },
+    {
+      "team": "Blue",
+      "column": 2,
+      "move_number": 4,
+      "player": "shreyanaik1085"
     }
   ]
 }
