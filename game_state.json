@@ -33,7 +33,7 @@
       "·",
       "·",
       "·",
-      "·",
+      "Red",
       "·"
     ],
     [
@@ -55,10 +55,10 @@
       "Blue"
     ]
   ],
-  "current_player": "Red",
+  "current_player": "Blue",
   "game_over": false,
   "winner": null,
-  "move_count": 6,
+  "move_count": 7,
   "history": [
     {
       "team": "Red",
@@ -94,6 +94,12 @@
       "team": "Blue",
       "column": 7,
       "move_number": 6,
+      "player": "sumeettummarmatti"
+    },
+    {
+      "team": "Red",
+      "column": 6,
+      "move_number": 7,
       "player": "sumeettummarmatti"
     }
   ]
