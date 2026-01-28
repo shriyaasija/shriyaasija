@@ -52,13 +52,13 @@
       "Blue",
       "·",
       "Red",
-      "·"
+      "Blue"
     ]
   ],
-  "current_player": "Blue",
+  "current_player": "Red",
   "game_over": false,
   "winner": null,
-  "move_count": 5,
+  "move_count": 6,
   "history": [
     {
       "team": "Red",
@@ -89,6 +89,12 @@
       "column": 6,
       "move_number": 5,
       "player": "shriyaasija"
+    },
+    {
+      "team": "Blue",
+      "column": 7,
+      "move_number": 6,
+      "player": "sumeettummarmatti"
     }
   ]
 }
